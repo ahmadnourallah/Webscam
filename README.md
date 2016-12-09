@@ -12,7 +12,7 @@ https://github.com/ahmadnourallah/Webscan/archive/master.zip
 [1) Metasploit Framework](https://github.com/rapid7/metasploit-framework)<br>
 [2) Sqlmap](https://github.com/sqlmapproject/sqlmap)<br>
 <br>
-3- Open tools file and give tools permission by thise command
+3- Open tools file and give tools permission by these command
 ```
 chmod 777 webscan.sh
 ```
