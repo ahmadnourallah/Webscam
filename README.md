@@ -1,5 +1,5 @@
 # Webscan ![Build Status](http://webscan.esy.es/web.svg)<br>
-<img src="http://webscan.esy.es/webscan.png">
+<img src="http://webscan.esy.es/web.png">
 It is a tool that collects information about the sites and extract gaps therein
 # Install
 1- Download The tools from this link 
